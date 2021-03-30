@@ -1,0 +1,14 @@
+ctr_cond	treat_cond
+Cond2	Cond1
+Cond2	Cond5
+Cond6	Cond5
+Cond1	Cond5
+Cond2	Cond3
+Cond2	Cond7
+Cond6	Cond7
+Cond3	Cond7
+Cond2	Cond4
+Cond2	Cond8
+Cond6	Cond8
+Cond4	Cond8
+Cond2	Cond6
